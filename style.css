@@ -1,0 +1,134 @@
+body
+{
+    background-color:#0044ff;
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+   
+}
+.sec
+{
+   background-color: #93c5fd;
+   height: 55px;
+   width: 100%;
+   margin: 0;
+}
+.name
+{
+   padding-left: 10px;
+}
+b
+{
+    margin-top: 12px;
+    font-size: 30px;
+    text-shadow:1px 2px 2px red;
+}
+.a
+{
+    border-radius: 50%;
+    border-style: solid;
+    border-color: orange;
+    border-width: 6px;
+    height: 50px;
+    width: 50px;
+}
+.maindiv
+{
+   display:flex;
+   justify-content: space-between;
+   background-color: grey;
+   height: 60px;
+   width: 100%;
+   
+}
+nav ul li
+{
+    display: inline-block;
+    margin: 5px;
+}
+li:hover
+{
+    background-color:rgb(195, 157, 216);
+    border: solid black;
+    border-radius: 3px;
+   
+}
+li
+{
+   font-weight: bold;
+   font-size: larger;
+}
+ul a{
+    text-decoration: none;
+    padding-right: 20px;
+}
+ 
+
+ .i
+ {
+    border-radius: 50%;
+    border: 10px solid orange;
+    margin: 80px 0 0 50px;
+    
+ }
+ 
+ .t
+ {
+    width: 50%;
+    float: right;
+    
+ }
+.d 
+ {
+    
+    width: 50%;
+   float: left;
+   
+ }
+
+ marquee
+ {
+    float: right;
+    padding-right: 300px;
+    margin-top: 20%;
+    color: black;
+    text-shadow: 1px 2px 2px red;
+    font-size: 40px;
+    font-style: italic;
+ }
+
+ h2
+ {
+   margin-top:40%;
+   padding-right: 30%;   
+   font-style: italic;
+   line-height: 40px;
+   letter-spacing: 0.5px;
+   text-align: justify;
+   width: 620px;
+   padding: 10px;
+   border: 5px;
+   margin: 280px 0px 0px 0px;
+   border-radius: 20px;
+   background-color:#012182;
+   color:#93c5fd;
+   box-shadow:10px 10px 25px 10px black;
+   font-size: 2em;
+    
+}
+h2:hover
+{
+   background-color:white;
+}
+#emoji
+{
+  padding-left: 580px; 
+}
+.s
+{
+   margin: 0;
+   padding: 0;
+}
+marquee
+{
+   margin: 0;
+}
